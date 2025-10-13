@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "bac2d8a152137ae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d1d5cd5487f64c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35c778dbd71be470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deepcore/Project Roadmap.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7d635b545ff3007",
+    "type": "split",
+    "children": [
+      {
+        "id": "a412bfe3b747aca6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09b467519c64288b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0d62f904ced52f25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2be68296b56813ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "7ced9a292662bf48",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.5
+  },
+  "right": {
+    "id": "126378a315dfe7a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbd363960998d44c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f30a1b3a8f45cd2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "6aa7b14b01b01f20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "d04af660544df27a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b636dd08780c7b88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "35c778dbd71be470",
+  "lastOpenFiles": [
+    "Deepcore/Build Notes.md",
+    "Deepcore/Final Submission Checklist.md",
+    "Deepcore/Changelog.md",
+    "Deepcore/Meta Unlocks.md",
+    "Deepcore/Upgrade Cards.md",
+    "Deepcore/Ores & Values.md",
+    "Deepcore/0📘Overview/Deepcore GDD.md",
+    "Deepcore/0📘Overview/0📘Overview.md",
+    "Deepcore/🧩Playtesting/Bugs & Fixes.md",
+    "Deepcore/Project Roadmap.md",
+    "Deepcore/1⚙️Systems/UpgradeSystem.md",
+    "Deepcore/1⚙️Systems/SaveSystem.md",
+    "Deepcore/1⚙️Systems/MetaProgression.md",
+    "Deepcore/1⚙️Systems/GridManager.md",
+    "Deepcore/1⚙️Systems/FXManager.md",
+    "Deepcore/1⚙️Systems/FunnelShrink.md",
+    "Deepcore/3🧠Design & Content/Other Ideas.md",
+    "Deepcore/3🧠Design & Content/Depth Layers.md",
+    "Deepcore/4💻 Programming Tasks/Programming To-Do.md",
+    "Deepcore/Flow.canvas",
+    "Deepcore/Untitled.md",
+    "Deepcore/1⚙️Systems/1⚙️Systems.md",
+    "Deepcore/0📘Overview/Design Pillars.md",
+    "Gaming/Final Project Novska/Project Mine.md",
+    "Home.md",
+    "0 - Overview/Project Roadmap.md",
+    "Deepcore/2🎨Art & Audio/Art To-Do.md",
+    "6 - Playtesting",
+    "2 - Art & Audio",
+    "0 - Overview",
+    "Tags",
+    "Gaming/Final Project Novska/Untitled.canvas",
+    "Deepcore/🧾Documentation",
+    "Deepcore/🧩Playtesting",
+    "Deepcore/4💻 Programming Tasks",
+    "Deepcore/🧠Design & Content",
+    "Deepcore/2🎨Art & Audio",
+    "Deepcore/1⚙️Systems",
+    "{C26AEF0B-D97C-4F87-A372-82011DA73A8D}.png",
+    "Canvas MAIN/Canvas.canvas",
+    "Canvas MAIN/{C26AEF0B-D97C-4F87-A372-82011DA73A8D}.png",
+    "{8043F329-0D3D-4671-854E-6F52E08751BF}.png",
+    "{35CF05CE-9D1A-4DA8-B52A-B062D22E4C0B}.png"
+  ]
+}
